@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675854716972",
+    "project_id": "firebse-app-c1b47",
+    "storage_bucket": "firebse-app-c1b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675854716972:android:928dc37b45083657ab4189",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxpOgZhkCvFmMIf3f4Df3aT3sMKrnXCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

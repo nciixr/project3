@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
-import 'package:pspots/models/locations_model.dart';
+import 'package:pspot/models/locations_model.dart';
 class FloorControl extends StatefulWidget {
   final FloorModel floorInfo;
   const FloorControl({Key? key, required this.floorInfo}) : super(key: key);

@@ -1,22 +1,5 @@
 import 'package:flutter/material.dart';
 
-// void main() {
-//   runApp(doun());
-// }
-
-// class doun extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       title: 'Image, Text, and Button Example',
-//       theme: ThemeData(
-//         primarySwatch: Colors.blue,
-//       ),
-//       home: DonePage(),
-//     );
-//   }
-// }
-
 class doun extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -39,7 +22,7 @@ class DonePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Image.asset(
-              'images/done.jpeg',
+              'assets/images/done.jpeg',
               width: 400,
               height: 400,
             ),
